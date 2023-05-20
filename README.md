@@ -1,4 +1,4 @@
-![logo](![WhatsApp Image 2023-05-20 at 12 21 28](https://github.com/mec2021045/Raju-Kumar-Yadav/assets/115482179/c6920a5d-e2c4-42df-8060-8814172ef2a2)
+![logo](![WhatsApp Image 2023-05-20 at 12 48 52](https://github.com/mec2021045/Raju-Kumar-Yadav/assets/115482179/95fd2fbe-8071-4ef9-9cc2-b628c8e55845))
 )
 <h1 align="center">Hi 👋, I'm Raju Kumar Yadav</h1>
 <h3 align="center">A passionate VLSI Student from Indian Institute of Information Technology Allahabad .</h3>
