@@ -2,7 +2,7 @@
 <h3 align="center">A passionate VLSI Student from Indian Institute of Information Technology Allahabad .</h3>
 <img align="right"alt="coding"width="400"src="![image](https://github.com/mec2021045/Raju-Kumar-Yadav/assets/115482179/5a30fef6-6b8f-454f-8f13-4474d92a1307)
 ">
-- 🌱 I’m currently learning **Digital and Analog IC Design,Static Timing analysis,Hardware Design Methodlogy,Digital System Design,Computer Architecture,Low Power System Design**I have good hands-on experience on **Xilinkx Vivado and Cadence Virtuoso**
+- 🌱 I learned **Digital and Analog IC Design,Static Timing analysis,ASIC Design ,Hardware Design Methodlogy,Digital System Design,Computer Architecture,Low Power System Design** in M.Tech curriculam .I have good hands-on experience on **Xilinkx Vivado and Cadence Virtuoso**
 - I am looking forward to start my journey as VLSI engineer.
 - 📫 How to reach me **mec2021045@iiita.ac.in**
 
@@ -18,6 +18,6 @@
 
 <h3 align="left">Languages and Tools:</h3>
 Language:Verilog,C ,java(OOPs)
-Tools:Xilinx Vivado,Cadence Virtuoso,Synopsys Custom Compiler tool
+                                             Tools:Xilinx Vivado,Cadence Virtuoso,Synopsys Custom Compiler tool
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mec2021045&show_icons=true&locale=en&layout=compact" alt="mec2021045" /></p>
