@@ -4,7 +4,7 @@
 🌱 I learned Digital and Analog IC Design, Static Timing analysis, ASIC Design, Hardware Design Methodlogy, Digital System Design, Computer Architecture, Low Power System Design in M.Tech curriculum .
 
 - I have good hands-on experience on Xilinx Vivado and Cadence Virtuoso
-- I am woring in System Verilog,UVM and scripting Language PERL . 
+- I am working in System Verilog,UVM and scripting Language PERL . 
 - I am looking forward to start my journey as VLSI engineer.
 
 - 📫 How to reach me **mec2021045@iiita.ac.in**
