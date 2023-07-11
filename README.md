@@ -5,7 +5,7 @@
 
 - I have good hands-on experience on Xilinx Vivado and Cadence Virtuoso
 - I am working in System Verilog,UVM and scripting Language PERL . 
-- I am looking forward to start my journey as VLSI engineer.
+- I am looking forward to start my journey as Analog VLSI engineer.
 
 - 📫 How to reach me **mec2021045@iiita.ac.in**
 
