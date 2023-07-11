@@ -10,7 +10,7 @@
 - 📫 How to reach me **mec2021045@iiita.ac.in**
 
 - 📄 Know about my experiences:-
-- https://drive.google.com/file/d/1-FYOFISDPN9F7L3nqzJodsN9JWbIFzsk/view?usp=drivesdk
+-
 
 - ⚡ Fun fact **I am funny😅**
 
