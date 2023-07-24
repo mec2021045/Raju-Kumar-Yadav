@@ -1,11 +1,11 @@
 ![WhatsApp Image 2023-05-20 at 13 01 03](https://github.com/mec2021045/Raju-Kumar-Yadav/assets/115482179/a3208c83-3a96-4786-bd34-f7c7408e5cd8)
 <h1 align="center">Hi 👋, I'm Raju Kumar Yadav</h1>
-<h3 align="center">A passionate VLSI Student from Indian Institute of Information Technology Allahabad .</h3>
-🌱 I learned Digital and Analog IC Design, Static Timing analysis, ASIC Design, Hardware Design Methodlogy, Digital System Design, Computer Architecture, Low Power System Design in M.Tech curriculum .
+<h3 align="center">A passionate VLSI Student from the Indian Institute of Information Technology Allahabad .</h3>
+🌱 I learned Digital and Analog IC Design, Static Timing analysis, ASIC Design, Hardware Design Methodology, Digital System Design, Computer Architecture, and Low Power System Design in the M.Tech curriculum.
 
-- I have good hands-on experience on Xilinx Vivado and Cadence Virtuoso
-- I am working in System Verilog,UVM and scripting Language PERL . 
-- I am looking forward to start my journey as Analog VLSI engineer.
+- I have good hands-on experience with Xilinx Vivado and Cadence Virtuoso
+- I am working in System Verilog & scripting Language PERL. 
+- I look forward to starting my journey as an Analog VLSI engineer.
 
 - 📫 How to reach me **mec2021045@iiita.ac.in**
 
