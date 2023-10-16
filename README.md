@@ -3,11 +3,11 @@
 <h3 align="center">A passionate VLSI Student from the Indian Institute of Information Technology Allahabad .</h3>
 🌱 I learned Digital and Analog IC Design, Static Timing analysis, ASIC Design, Hardware Design Methodology, Digital System Design, Computer Architecture, and Low Power System Design in the M.Tech curriculum.
 
-- I have good hands-on experience with Xilinx Vivado and Cadence Virtuoso
+- I have good hands-on experience with Xilinx Vivado and Cadence Virtuoso.
    
-- I look forward to starting my journey as an Analog VLSI engineer.
+- I look forward to starting my journey as a VLSI engineer.
 
-- 📫 How to reach me **mec2021045@iiita.ac.in**
+- 📫 How to reach me **mec2021045@iiita.ac.in & rajunptel.iiita@gmail.com**
 
 - 📄 Know about my experiences:-
 -
@@ -18,7 +18,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-Language:Verilog, C, java(OOPs)
-Tools:Xilinx Vivado,Cadence Virtuoso,Synopsys Custom Compiler tool
+Language: Verilog, C, java(OOPs)
+Tools: Xilinx Vivado, Cadence Virtuoso, Synopsys Custom Compiler tool
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mec2021045&show_icons=true&locale=en&layout=compact" alt="mec2021045" /></p>
