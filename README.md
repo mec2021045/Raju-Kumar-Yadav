@@ -1,4 +1,3 @@
-![WhatsApp Image 2023-05-20 at 13 01 03](https://github.com/mec2021045/Raju-Kumar-Yadav/assets/115482179/a3208c83-3a96-4786-bd34-f7c7408e5cd8)
 <h1 align="center">Hi 👋, I'm Raju Kumar Yadav</h1>
 <h3 align="center">A passionate VLSI Student from the Indian Institute of Information Technology Allahabad .</h3>
 🌱 I learned Digital and Analog IC Design, Static Timing analysis, ASIC Design, Hardware Design Methodology, Digital System Design, Computer Architecture, and Low Power System Design in the M.Tech curriculum.
